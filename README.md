@@ -1,5 +1,5 @@
 # RouterAge_Delphi_chat
-RouterAge - simple audio/video chat. ![Alt text](/img/1.jpg "RouterAge")<br><br>
+RouterAge - simple audio/video chat. ![Alt text](/img/2.jpg "RouterAge")<br><br>
 I (my skype=chaky2222) took part in its development.... <br>
 This chat - dead project now... <br>
 And now i am sure - start project in C++ or delphi on server side - is not good idea.... <br>
